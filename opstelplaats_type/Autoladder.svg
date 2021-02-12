@@ -15,7 +15,7 @@
    inkscape:export-xdpi="99.027519"
    inkscape:export-ydpi="99.027519"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="opstelpl_RV_TS.svg"
+   sodipodi:docname="opstelpl_AL.svg"
    x="0px"
    y="0px"
    viewBox="0 0 125 125"
@@ -91,13 +91,13 @@
            id="path24"
            d="m 462.617,62.4219 32.285,1.7656 c 0,0 6.114,33.957 6.075,59.9175 0,25.899 -6.114,58.52 -6.114,58.52 l -32.285,2.691 0.039,-122.8941"
            inkscape:connector-curvature="0" /></g></g></g></g><g
-   aria-label="RV"
+   aria-label="AL"
    style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed1c24;fill-opacity:1;stroke:none"
    id="text3036"><path
-     d="m 90.366493,49.308411 q 0,-0.601563 -0.24707,-1.03125 -0.24707,-0.429688 -0.848633,-0.676758 -0.418945,-0.171875 -0.977539,-0.204102 -0.558594,-0.04297 -1.299805,-0.04297 h -1.493164 v 4.307617 h 1.267578 q 0.988282,0 1.654297,-0.09668 0.666016,-0.09668 1.117188,-0.44043 0.429687,-0.333007 0.623047,-0.730468 0.204101,-0.408204 0.204101,-1.084961 z M 96.801064,60.40509 H 91.762978 L 87.401649,54.539856 H 85.500282 V 60.40509 H 81.396767 V 44.409973 h 6.917968 q 1.417969,0 2.438477,0.161133 1.020508,0.161133 1.912109,0.698242 0.902344,0.53711 1.428711,1.396485 0.53711,0.848632 0.53711,2.137695 0,1.772461 -0.827149,2.889648 -0.816406,1.117188 -2.341797,1.858399 z"
+     d="M 96.178017,60.40509 H 91.913368 L 90.806923,57.171692 H 84.877235 L 83.77079,60.40509 h -4.157226 l 5.908203,-15.995117 h 4.748047 z m -6.370118,-6.166015 -1.96582,-5.736328 -1.96582,5.736328 z"
      style="font-weight:bold;font-size:22px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;fill:#ed1c24;fill-opacity:1"
-     id="path2065" /><path
-     d="m 113.12919,44.409973 -5.83301,15.995117 h -4.61914 L 96.844032,44.409973 h 4.329098 l 3.86719,11.236328 3.86719,-11.236328 z"
+     id="path2659" /><path
+     d="M 110.03544,60.40509 H 98.498329 V 44.409973 h 4.125001 V 57.31134 h 7.41211 z"
      style="font-weight:bold;font-size:22px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;fill:#ed1c24;fill-opacity:1"
-     id="path2067" /></g>
+     id="path2661" /></g>
 </g></svg>
